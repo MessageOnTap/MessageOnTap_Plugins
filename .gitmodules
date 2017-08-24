@@ -1,0 +1,12 @@
+[submodule "iamhome"]
+	path = iamhome
+	url = git@github.com:MessageOnTap/ImHome.git
+[submodule "smartcalendar"]
+	path = smartcalendar
+	url = git@github.com:MessageOnTap/SmartCalendar.git
+[submodule "googledocs"]
+	path = googledocs
+	url = git@github.com:MessageOnTap/GoogleDocsPlugin.git
+[submodule "starbucks"]
+	path = starbucks
+	url = git@github.com:MessageOnTap/StarbucksPlugin.git
