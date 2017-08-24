@@ -7,3 +7,6 @@
 [submodule "StarbucksPlugin"]
 	path = StarbucksPlugin
 	url = https://github.com/MessageOnTap/StarbucksPlugin
+[submodule "GoogleDocsPlugin"]
+	path = GoogleDocsPlugin
+	url = https://github.com/MessageOnTap/GoogleDocsPlugin
