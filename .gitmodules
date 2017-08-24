@@ -1,12 +1,9 @@
-[submodule "iamhome"]
-	path = iamhome
-	url = git@github.com:MessageOnTap/ImHome.git
-[submodule "smartcalendar"]
-	path = smartcalendar
-	url = git@github.com:MessageOnTap/SmartCalendar.git
-[submodule "googledocs"]
-	path = googledocs
-	url = git@github.com:MessageOnTap/GoogleDocsPlugin.git
-[submodule "starbucks"]
-	path = starbucks
-	url = git@github.com:MessageOnTap/StarbucksPlugin.git
+[submodule "ImHome"]
+	path = ImHome
+	url = https://github.com/MessageOnTap/ImHome
+[submodule "SmartCalendar"]
+	path = SmartCalendar
+	url = https://github.com/MessageOnTap/SmartCalendar
+[submodule "StarbucksPlugin"]
+	path = StarbucksPlugin
+	url = https://github.com/MessageOnTap/StarbucksPlugin
