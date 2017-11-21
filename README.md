@@ -21,9 +21,9 @@ always fetch the newest code by fetching the master branch of each plugin repo,
 **you can also clone the
 [nightly](https://github.com/MessageOnTap/MessageOnTap_Plugins/tree/nightly)
 branch of this repo, which is updated to the newest available code every
-midnight by our Auto Roller.**
+midnight (UTC) by our Auto Roller.**
 
-*Be advised that the nightly branch mightly not work stably, since it's
+*Be advised that the nightly branch might not work stably, since it's
 auto-updated. It will only be merged back to master branch when project
 maintainers have manually tested them.*
 
