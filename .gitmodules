@@ -10,7 +10,3 @@
 [submodule "GoogleDocsPlugin"]
 	path = googledocsplugin
 	url = https://github.com/MessageOnTap/GoogleDocsPlugin
-[submodule "MessageOnTap_Plugins"]
-	path = MessageOnTap_Plugins
-	url = https://github.com/MessageOnTap/MessageOnTap_Plugins
-	branch = master
